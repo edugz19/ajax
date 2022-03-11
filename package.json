@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "node server.js",
+    "dev": "parcel index.html"
+  },
+  "name": "ajax",
+  "version": "1.0.0",
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.26.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
