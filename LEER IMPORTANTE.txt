@@ -1,0 +1,5 @@
+Para poder hacer uso de esta sencilla app hay que seguir varios pasos:
+
+1. npm i
+2. npm run serve
+3. Ir a http://localhost:1234
